@@ -1,0 +1,119 @@
+ body {
+    /* background-color: rgba(255, 187, 0, 0.105); */
+    /* background-image: url(12c62e8a5c32f49e\ \(1\).jpeg); */
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgba(255, 162, 0, 0.5);
+    color: #000;
+    font-size: 400%;
+}
+h2 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 20px;
+    background-color: rgba(255, 132, 0, 0.571);
+    font-family: 35px;
+}
+nav ul {
+    justify-content: center;
+    list-style-type: none;
+    margin:5px;
+    text-align: center;
+    padding: 2px;
+    display: flex;
+    gap:10px;
+    border: 1rem;
+    color: #041643;
+    font-size: larger;
+}
+nav ul a{
+    background-color: rgb(247, 244, 239);
+    display:block;
+    color: rgb(11, 17, 23);
+    border: 1px solid rgb(3, 11, 87);
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+nav ul a:hover {
+    background-color: rgba(151, 114, 49, 0.432);;
+    color: #000;
+}
+div {
+    background-color:rgba(235, 147, 40, 0.676);
+    text-align: center;
+    display: block;
+    padding: 10px;
+    border: double;
+    margin-right: 350px;
+    margin-left: 350px;
+    font-family: 15px;
+    font-size: 20px;
+}
+h3 {
+    text-align: center;
+    padding: 5px;
+    font-size: 15x;
+}
+ul {
+    text-align: center;
+    font-size: 25px;
+    background-color: rgba(255, 145, 0, 0.603);
+    margin-right: 350px;
+    margin-left: 350px;
+    font-family: 10px;
+}
+footer {
+    padding: 5px;
+    font-size: 25px;
+    color: #000;
+    font-size: 25px;
+}
+   /* float: none;
+    display: block;
+    background-color:rgba(255, 136, 0, 0.664);
+    padding: 5px;
+    margin: 5px;
+    gap: 10px;
+    border: 1rem;
+    font-size: 20px;
+    font-family: 10px;
+    list-style-type: none;
+    margin-right: 750px;*/
+li {
+    text-align: center;
+}
+button {
+    text-align: center;
+    background-color: rgba(222, 109, 28, 0.349);
+    border: ridge;
+    color: #000000ad;
+    font-size: 25px;
+}
+input {
+    font-size: large;
+}
+ul {
+    list-style-type: none;
+}
+select {
+    padding: 5px;
+    border: double;
+    background-color: rgba(222, 130, 55, 0.582);
+}
+a {
+    color: #555;
+}
+
+
+
+
+
+    
+
+
